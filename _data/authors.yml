@@ -5,6 +5,10 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+duck:
+  name: Dead Duck
+  twitter: fabioeazevedo
+  url: https://github.com/fabio-e-azevedo/
 
 cotes:
   name: Cotes Chung
