@@ -2,8 +2,8 @@
 title: Data e Hora no history do shell
 author: duck
 date: 2023-02-14 14:27:04 -0300
-categories: [Notas, Tutorial]
-tags: [bash]
+categories: [Linux, Shell]
+tags: [bash, command]
 pin: false
 ---
 
