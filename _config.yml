@@ -38,15 +38,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: fabio_eduardo_de_azevedo
+  name: Dead Duck
   email: emaildofabioeduardo@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/fabio-e-azevedo
+    - https://www.linkedin.com/in/fabio-e-azevedo
+    - https://twitter.com/fabioeazevedo
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
 
